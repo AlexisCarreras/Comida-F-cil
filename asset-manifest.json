@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/comida-facil/static/css/main.b0871f5d.chunk.css",
+    "main.js": "/comida-facil/static/js/main.8498206f.chunk.js",
+    "main.js.map": "/comida-facil/static/js/main.8498206f.chunk.js.map",
+    "runtime-main.js": "/comida-facil/static/js/runtime-main.56a58e97.js",
+    "runtime-main.js.map": "/comida-facil/static/js/runtime-main.56a58e97.js.map",
+    "static/js/2.65b59ab3.chunk.js": "/comida-facil/static/js/2.65b59ab3.chunk.js",
+    "static/js/2.65b59ab3.chunk.js.map": "/comida-facil/static/js/2.65b59ab3.chunk.js.map",
+    "static/js/3.890f1ad5.chunk.js": "/comida-facil/static/js/3.890f1ad5.chunk.js",
+    "static/js/3.890f1ad5.chunk.js.map": "/comida-facil/static/js/3.890f1ad5.chunk.js.map",
+    "index.html": "/comida-facil/index.html",
+    "static/css/main.b0871f5d.chunk.css.map": "/comida-facil/static/css/main.b0871f5d.chunk.css.map",
+    "static/js/2.65b59ab3.chunk.js.LICENSE.txt": "/comida-facil/static/js/2.65b59ab3.chunk.js.LICENSE.txt",
+    "static/media/burger.ff2d5ece.png": "/comida-facil/static/media/burger.ff2d5ece.png",
+    "static/media/galeria1.f03f43b9.jpg": "/comida-facil/static/media/galeria1.f03f43b9.jpg",
+    "static/media/index.css": "/comida-facil/static/media/vertical2.b61062ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56a58e97.js",
+    "static/js/2.65b59ab3.chunk.js",
+    "static/css/main.b0871f5d.chunk.css",
+    "static/js/main.8498206f.chunk.js"
+  ]
+}
