@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/comida-facil/static/css/main.4be2ae31.chunk.css",
-    "main.js": "/comida-facil/static/js/main.bc5b0b57.chunk.js",
-    "main.js.map": "/comida-facil/static/js/main.bc5b0b57.chunk.js.map",
-    "runtime-main.js": "/comida-facil/static/js/runtime-main.cd5f1ecf.js",
-    "runtime-main.js.map": "/comida-facil/static/js/runtime-main.cd5f1ecf.js.map",
-    "static/js/2.34462e82.chunk.js": "/comida-facil/static/js/2.34462e82.chunk.js",
-    "static/js/2.34462e82.chunk.js.map": "/comida-facil/static/js/2.34462e82.chunk.js.map",
-    "static/js/3.a58d4e55.chunk.js": "/comida-facil/static/js/3.a58d4e55.chunk.js",
-    "static/js/3.a58d4e55.chunk.js.map": "/comida-facil/static/js/3.a58d4e55.chunk.js.map",
+    "main.js": "/comida-facil/static/js/main.ad99f273.chunk.js",
+    "main.js.map": "/comida-facil/static/js/main.ad99f273.chunk.js.map",
+    "runtime-main.js": "/comida-facil/static/js/runtime-main.0ff8068f.js",
+    "runtime-main.js.map": "/comida-facil/static/js/runtime-main.0ff8068f.js.map",
+    "static/js/2.4cbd7ccf.chunk.js": "/comida-facil/static/js/2.4cbd7ccf.chunk.js",
+    "static/js/2.4cbd7ccf.chunk.js.map": "/comida-facil/static/js/2.4cbd7ccf.chunk.js.map",
+    "static/js/3.18d3d69a.chunk.js": "/comida-facil/static/js/3.18d3d69a.chunk.js",
+    "static/js/3.18d3d69a.chunk.js.map": "/comida-facil/static/js/3.18d3d69a.chunk.js.map",
     "index.html": "/comida-facil/index.html",
     "static/css/main.4be2ae31.chunk.css.map": "/comida-facil/static/css/main.4be2ae31.chunk.css.map",
-    "static/js/2.34462e82.chunk.js.LICENSE.txt": "/comida-facil/static/js/2.34462e82.chunk.js.LICENSE.txt",
+    "static/js/2.4cbd7ccf.chunk.js.LICENSE.txt": "/comida-facil/static/js/2.4cbd7ccf.chunk.js.LICENSE.txt",
     "static/media/Comida Fácil.1be81aa5.png": "/comida-facil/static/media/Comida Fácil.1be81aa5.png",
     "static/media/burger.ff2d5ece.png": "/comida-facil/static/media/burger.ff2d5ece.png",
     "static/media/index.css": "/comida-facil/static/media/vertical4.21268c2f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd5f1ecf.js",
-    "static/js/2.34462e82.chunk.js",
+    "static/js/runtime-main.0ff8068f.js",
+    "static/js/2.4cbd7ccf.chunk.js",
     "static/css/main.4be2ae31.chunk.css",
-    "static/js/main.bc5b0b57.chunk.js"
+    "static/js/main.ad99f273.chunk.js"
   ]
 }
