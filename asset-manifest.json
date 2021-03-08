@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/comida-facil/static/css/main.4be2ae31.chunk.css",
-    "main.js": "/comida-facil/static/js/main.e083bf6b.chunk.js",
-    "main.js.map": "/comida-facil/static/js/main.e083bf6b.chunk.js.map",
+    "main.js": "/comida-facil/static/js/main.b6a4f864.chunk.js",
+    "main.js.map": "/comida-facil/static/js/main.b6a4f864.chunk.js.map",
     "runtime-main.js": "/comida-facil/static/js/runtime-main.0ff8068f.js",
     "runtime-main.js.map": "/comida-facil/static/js/runtime-main.0ff8068f.js.map",
-    "static/js/2.9a24f563.chunk.js": "/comida-facil/static/js/2.9a24f563.chunk.js",
-    "static/js/2.9a24f563.chunk.js.map": "/comida-facil/static/js/2.9a24f563.chunk.js.map",
+    "static/js/2.d9a064ba.chunk.js": "/comida-facil/static/js/2.d9a064ba.chunk.js",
+    "static/js/2.d9a064ba.chunk.js.map": "/comida-facil/static/js/2.d9a064ba.chunk.js.map",
     "static/js/3.18d3d69a.chunk.js": "/comida-facil/static/js/3.18d3d69a.chunk.js",
     "static/js/3.18d3d69a.chunk.js.map": "/comida-facil/static/js/3.18d3d69a.chunk.js.map",
     "index.html": "/comida-facil/index.html",
     "static/css/main.4be2ae31.chunk.css.map": "/comida-facil/static/css/main.4be2ae31.chunk.css.map",
-    "static/js/2.9a24f563.chunk.js.LICENSE.txt": "/comida-facil/static/js/2.9a24f563.chunk.js.LICENSE.txt",
+    "static/js/2.d9a064ba.chunk.js.LICENSE.txt": "/comida-facil/static/js/2.d9a064ba.chunk.js.LICENSE.txt",
     "static/media/Comida Fácil.1be81aa5.png": "/comida-facil/static/media/Comida Fácil.1be81aa5.png",
     "static/media/burger.ff2d5ece.png": "/comida-facil/static/media/burger.ff2d5ece.png",
     "static/media/index.css": "/comida-facil/static/media/vertical4.21268c2f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0ff8068f.js",
-    "static/js/2.9a24f563.chunk.js",
+    "static/js/2.d9a064ba.chunk.js",
     "static/css/main.4be2ae31.chunk.css",
-    "static/js/main.e083bf6b.chunk.js"
+    "static/js/main.b6a4f864.chunk.js"
   ]
 }
